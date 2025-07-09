@@ -1,0 +1,55 @@
+[
+  {
+    "category": "Finance",
+    "subcategory": "Reimbursement",
+    "extracted_fields": {
+      "request_type": "travel reimbursement",
+      "context": "client visit",
+      "time_reference": "last week"
+    },
+    "urgency": "Medium",
+    "suggested_response": "Hi Ritika, we've forwarded your travel reimbursement request for the client visit last week to the Finance team. You’ll receive an update shortly."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Network Issue",
+    "extracted_fields": {
+      "issue": "VPN keeps disconnecting",
+      "frequency": "every 5 minutes"
+    },
+    "urgency": "High",
+    "suggested_response": "Hi Aditya, we’ve notified the IT team about your VPN connectivity issues. They’ll investigate and get back to you shortly."
+  },
+  {
+    "category": "HR",
+    "subcategory": "Personal Info Update",
+    "extracted_fields": {
+      "field_to_update": "phone number",
+      "request_type": "update contact info"
+    },
+    "urgency": "Low",
+    "suggested_response": "Hi Shraddha, your request to update your phone number has been sent to the HR team. They’ll confirm once the update is complete."
+  },
+  {
+    "category": "Admin",
+    "subcategory": "Meeting Room Booking",
+    "extracted_fields": {
+      "resource": "conference room",
+      "datetime": "tomorrow, 3 PM",
+      "requirement": "projector support"
+    },
+    "urgency": "Medium",
+    "suggested_response": "Hi Naveen, your room booking request with projector support for tomorrow at 3 PM has been shared with the Admin team. You'll get a confirmation soon."
+  },
+  {
+    "category": "IT",
+    "subcategory": "Access Request",
+    "extracted_fields": {
+      "system": "GitLab",
+      "resource": "CI/CD pipeline logs",
+      "purpose": "debugging build failures"
+    },
+    "urgency": "Medium",
+    "suggested_response": "Hi Yusuf, your request for access to the GitLab CI/CD pipeline logs has been submitted to the IT team for review."
+  }
+]
