@@ -21,9 +21,9 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 🛠️ Milestone 1: Project Setup & Design
 > ⏱️ Estimated: 1 day
 
-- [ ] Define use cases and categories (IT, HR, Admin, etc.)
-- [ ] Create sample input/output data
-- [ ] Design prompt template for LLM classification and extraction
+- [x] Define use cases and categories (IT, HR, Admin, etc.)
+- [x] Create sample input/output data
+- [x] Design prompt template for LLM classification and extraction
 
 **Output:**
 - `data/sample-user-input.json`
