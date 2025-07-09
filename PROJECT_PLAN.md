@@ -21,9 +21,9 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 🛠️ Milestone 1: Project Setup & Design
 > ⏱️ Estimated: 1 day
 
-- [x] Define use cases and categories (IT, HR, Admin, etc.)
-- [x] Create sample input/output data
-- [x] Design prompt template for LLM classification and extraction
+- [ ] Define use cases and categories (IT, HR, Admin, etc.)
+- [ ] Create sample input/output data
+- [ ] Design prompt template for LLM classification and extraction
 
 **Output:**
 - `data/sample-user-input.json`
@@ -35,10 +35,10 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 💻 Milestone 2: Core LLM-Powered MVP
 > ⏱️ Estimated: 2–3 days
 
-- [x] Build webform UI with Streamlit or Flask
-- [x] Capture full name, email, message, and department
-- [x] Create LLM pipeline to classify and extract structured output
-- [x] Generate auto-response based on prediction
+- [ ] Build webform UI with Streamlit or Flask
+- [ ] Capture full name, email, message, and department
+- [ ] Create LLM pipeline to classify and extract structured output
+- [ ] Generate auto-response based on prediction
 
 **Output:**
 - `app/main.py`
@@ -49,9 +49,9 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 🧾 Milestone 3: Storage + Logging
 > ⏱️ Estimated: 1 day
 
-- [x] Store form inputs and model outputs to JSON/SQLite
-- [x] Capture user metadata + timestamps
-- [x] Enable simple log retrieval or export
+- [ ] Store form inputs and model outputs to JSON/SQLite
+- [ ] Capture user metadata + timestamps
+- [ ] Enable simple log retrieval or export
 
 **Output:**
 - `data/tickets.db` or JSON logs
@@ -62,9 +62,9 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 📊 Milestone 4: Dashboard & Analytics (Basic)
 > ⏱️ Estimated: 1–2 days
 
-- [x] Display ticket volume by category
-- [x] Show breakdown by department or urgency
-- [x] Visualize trends or query frequency
+- [ ] Display ticket volume by category
+- [ ] Show breakdown by department or urgency
+- [ ] Visualize trends or query frequency
 
 **Output:**
 - `app/dashboard.py`
@@ -74,10 +74,10 @@ OfficeGenie is a GenAI-powered assistant that triages natural language support q
 ### 📚 Milestone 5: Packaging & Showcase
 > ⏱️ Estimated: 1 day
 
-- [x] Finalize `README.md` with screenshots, setup, features
-- [x] Write technical summary in `docs/case-study.md`
-- [x] Push repo to GitHub with clean project structure
-- [x] (Optional) Deploy to Streamlit Cloud or HuggingFace Spaces
+- [ ] Finalize `README.md` with screenshots, setup, features
+- [ ] Write technical summary in `docs/case-study.md`
+- [ ] Push repo to GitHub with clean project structure
+- [ ] (Optional) Deploy to Streamlit Cloud or HuggingFace Spaces
 
 **Output:**
 - `README.md`
