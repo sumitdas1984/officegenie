@@ -17,7 +17,7 @@ OfficeGenie is an AI-powered assistant that acts as a first-line triage system f
 
 ## 📦 Tech Stack
 
-- **Frontend**: Streamlit / FastAPI
+- **Frontend**: React
 - **Backend**: Python 3.10+
 - **LLM**: OpenAI GPT / Claude (via API)
 - **Data**: JSON-based input/output + optional SQLite
