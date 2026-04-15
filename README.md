@@ -42,7 +42,21 @@ OfficeGenie is an AI-powered assistant that acts as a first-line triage system f
   "suggested_response": "Hi Ananya, we've shared your payslip issue with the Payroll team. You’ll get an update shortly."
 }
 ```
---
+
+---
+
+## 📁 Project Structure
+
+```
+officegenie/
+├── docs/
+│   ├── product/     # Product specs, ideas, and roadmaps
+│   └── design/      # UI mockups, wireframes, and design assets
+├── main.py          # Main application entry point
+└── pyproject.toml   # Project dependencies and configuration
+```
+
+---
 
 ## 👤 Author
 
